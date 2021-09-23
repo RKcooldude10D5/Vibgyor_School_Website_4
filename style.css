@@ -1,0 +1,99 @@
+body {
+    background: linear-gradient(lightgray 0%, darkgray 100%);
+}
+
+#marqueeStyle {
+    background-color: darkgray;
+}
+
+#home {
+    text-align: center;
+}
+
+#contact {
+    text-align: center;
+}
+
+#parentsspeak {
+    text-align: center;
+}
+
+#ps {
+    text-align: center;
+}
+
+.achieve-head {
+    padding: 6px 22px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    display: inline-block;
+}
+
+.achieve-head i {
+    float: right;
+}
+
+#achievements {
+    text-align: center;
+}
+
+#qwerty {
+    width: 300px;
+}
+
+.groupofschools_li {
+    margin-top: 20px;
+}
+
+.groupofschools_li h4 {
+    border-bottom: 1px solid yellow;
+}
+
+.groupofschools_li img {
+    border-radius: 50px;
+}
+
+.groupofschools_li p {
+    margin-top: 12px;
+}
+
+#groupofschools {
+    text-align: center;
+}
+
+.header_entrepreneur {
+    line-height: 2;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+#caieratstal {
+    background: rgba(0, 255, 0, 20%);
+}
+
+#caieratstigse {
+    background: rgba(0, 0, 255, 20%);
+}
+
+#igtigtett {
+    background: rgba(255, 255, 0, 20%);
+}
+
+#cgtgtett {
+    background: rgba(255, 255, 0, 20%);
+}
